@@ -1,0 +1,56 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Build directories
+/target/
+/build/
+
+# Maven
+/pom.xml.tag
+/pom.xml.releaseBackup
+/pom.xml.versionsBackup
+/logs/
+/release.properties
+
+# IDEs
+/.idea/
+*.iml
+*.ipr
+*.iws
+/.classpath
+/.project
+/.settings/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Spring Boot
+/spring-boot-*.jar
+
+# Generated test files
+/test-classes/
+
+# Eclipse
+/.metadata/
+
+# IntelliJ
+/out/
+
+# Misc
+*.swp
+*~.nib
